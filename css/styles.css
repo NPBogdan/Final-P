@@ -128,12 +128,19 @@ a:hover{
     margin-right:auto;
     width: 10%;
     transform: rotate(270deg);
+    border-radius:10%;
 }
-
-.Gaming,.Gaming1,.jand{
-  width:45%;
-  float:left;
+.Gaming,.jand{
+  width:80%;
+  float:center;
   margin-right:30px;
+  border-radius: 70%
+}
+.OW{
+    width:80%;
+    float:center;
+    margin-right:30px;
+    border-radius: 10%
 }
 .ski{
   width:25%;
